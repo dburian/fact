@@ -1,6 +1,8 @@
 # Links
 
 - [Trello board](https://trello.com/b/uWB8wUgW)
+- [Latest spec](./docs/spec/spec.pdf)
+
 
 # Road map
 
