@@ -8,7 +8,7 @@
 
 ## Stage #0
 
-- deadline: 31.7.
+- deadline: 8.8.
 - goal: working environment
 - steps:
   - specification
