@@ -32,7 +32,7 @@
 ## Data
 
 - Projekty
-  - text
+  - text, jen paragraphy
   - obrázky
   - info per projekt (key, value pair)
 - Uživatelé
@@ -43,3 +43,13 @@
     - žádná správa uživatelů
 
 
+---
+# 28.8.
+
+## Data
+
+- Aktuality
+  - text
+  - datum
+  - obrázky
+  - v budoucnu video
